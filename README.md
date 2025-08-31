@@ -10,7 +10,7 @@ It is designed to make Operating System scheduling **easy to understand** and **
 ---
 
 ## 🌐 Live Demo
-👉 [SchedViz](https://schedviz-six.vercel.app/)
+👉 [SchedViz](https://schedviz-three.vercel.app/)
 
 ---
 
